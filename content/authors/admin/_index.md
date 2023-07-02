@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Chen
+title: Yang Cheng
 
 # Full name (for SEO)
 first_name: Yang
