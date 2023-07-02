@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Yang Chen
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yang
+last_name: Chen
 
 # Status emoji
 status:
@@ -14,21 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Beijing University of Posts and Telecommunications (BUPT)
+    url: https://scs.bupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data mining, natural language processing and social computing.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - Natural Language Processing
+  - Social Computing
 
 # Education to show in About widget
 education:
@@ -79,6 +79,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cheng Yang is an Associate Professor of Computer Science at Beijing University of Posts and Telecommunications (BUPT). He received his Bachelor and Ph.D. degrees from Tsinghua University in 2014 and 2019, respectively. Cheng's research interests include data mining, natural language processing and social computing. He has published 50+ papers in top journals and conferences, such as IEEE TKDE, ACM TOIS, KDD, WWW, ACL and AAAI. His work has got more than 6,500 citations as shown by <a href="http://scholar.google.com/citations?user=OlLjVUcAAAAJ&hl=en">Google Scholar</a>. He is recognized as one of the <a href="https://www.aminer.cn/ai2000/search_rank?id=560f058045cedb33976e714c&searchValue=Cheng%20Yang&yearLeft=2014&yearRight=2023">AI 2000</a> Most Influential Scholars in AAAI/IJCAI, and also named by <a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">Baidu</a> as one of the Top 100 Chinese Young Scholars in Artificial Intelligence.
 {style="text-align: justify;"}

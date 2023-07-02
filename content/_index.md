@@ -189,12 +189,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: advertisement
     content:
-      title: Recent & Upcoming Talks
+      title: Advertisements
       filters:
         folders:
-          - event
+          - advertisement
     design:
       columns: '2'
       view: compact
