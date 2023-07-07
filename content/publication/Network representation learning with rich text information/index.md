@@ -6,7 +6,10 @@ title: 'Network representation learning with rich text information'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Liu, Zhiyuan
+  - Zhao, Deli 
+  - Sun, Maosong
+  - Chang, Edward Y
 
 # # Author notes (optional)
 # author_notes:
