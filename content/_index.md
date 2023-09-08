@@ -77,7 +77,7 @@ sections:
       items:
         - certificate_url: https://www.aminer.org/ai2000/ai
           date_end: ''
-          date_start: '2022-06'
+          date_start: '2022-01-01'
           description: ''
           organization: Aminer
           organization_url: https://www.aminer.org
@@ -86,7 +86,7 @@ sections:
       
         - certificate_url: https://xueshu.baidu.com/usercenter/index/aischolar2022
           date_end: ''
-          date_start: '2022-06'
+          date_start: '2022-01-01'
           description: ''
           organization: 百度学术
           organization_url: https://xueshu.baidu.com
@@ -94,33 +94,35 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
+
+
   # - block: portfolio
   #   id: projects
   #   content:
@@ -156,6 +158,7 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
+
   - block: collection
     id: featured
     content:
