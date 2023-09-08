@@ -39,7 +39,7 @@ summary: ""
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
