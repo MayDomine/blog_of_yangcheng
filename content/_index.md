@@ -77,7 +77,7 @@ sections:
       items:
         - certificate_url: https://www.aminer.org/ai2000/ai
           date_end: ''
-          date_start: '2022-6'
+          date_start: '2022-06'
           description: ''
           organization: Aminer
           organization_url: https://www.aminer.org
@@ -86,7 +86,7 @@ sections:
       
         - certificate_url: https://xueshu.baidu.com/usercenter/index/aischolar2022
           date_end: ''
-          date_start: '2022-6'
+          date_start: '2022-06'
           description: ''
           organization: 百度学术
           organization_url: https://xueshu.baidu.com
