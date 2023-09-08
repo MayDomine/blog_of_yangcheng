@@ -208,19 +208,15 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: yangcheng@bupt.edu.cn
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: 北京邮电大学 计算机学院（国家示范性软件学院）
+        city: 北京
+        region: 海淀区
+        postcode: '100000 '
+        country: 中国
+        country_code: CN
+      directions: 
+  
       contact_links:
         - icon: twitter
           icon_pack: fab
