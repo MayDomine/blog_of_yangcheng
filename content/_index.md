@@ -205,7 +205,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Looking for self-motivated Ph.D. and master students interested in graph neural networks (GNNs) or large language models (LLMs). Students with strong backgrounds in machine learning are especially welcomed!
       # Contact (add or remove contact options as necessary)
       email: yangcheng@bupt.edu.cn
       address:
