@@ -68,7 +68,7 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -77,7 +77,7 @@ sections:
       items:
         - certificate_url: https://www.aminer.org/ai2000/ai
           date_end: ''
-          date_start: '2022'
+          date_start: '2022-6'
           description: ''
           organization: Aminer
           organization_url: https://www.aminer.org
@@ -86,7 +86,7 @@ sections:
       
         - certificate_url: https://xueshu.baidu.com/usercenter/index/aischolar2022
           date_end: ''
-          date_start: '2022'
+          date_start: '2022-6'
           description: ''
           organization: 百度学术
           organization_url: https://xueshu.baidu.com
