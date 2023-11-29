@@ -36,7 +36,7 @@ publication_types: ['1']
 
 publication: In *{venue}*
 
-abstract: {abstract}
+abstract: '{abstract}'
 
 url_pdf: '{url_pdf}'
 ---
