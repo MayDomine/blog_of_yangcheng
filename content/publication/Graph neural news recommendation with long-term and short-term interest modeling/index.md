@@ -3,10 +3,10 @@ title: 'Graph neural news recommendation with long-term and short-term interest 
 
 authors:
   - Linmei Hu
-	-	Chen Li
-	-	Chuan Shi
-	-	admin
-	-	Chao Shao
+	- Chen Li
+	- Chuan Shi
+	- admin
+	- Chao Shao
 
 date: '2020'
 doi: ''

@@ -3,14 +3,14 @@ title: 'Graph neural networks: A review of methods and applications'
 
 authors:
   - Jie Zhou
-	-	Ganqu Cui
-	-	Shengding Hu
-	-	Zhengyan Zhang
-	-	admin
-	-	Zhiyuan Liu
-	-	Lifeng Wang
-	-	Changcheng Li
-	-	Maosong Sun
+	- Ganqu Cui
+	- Shengding Hu
+	- Zhengyan Zhang
+	- admin
+	- Zhiyuan Liu
+	- Lifeng Wang
+	- Changcheng Li
+	- Maosong Sun
 
 date: '2020'
 doi: ''

@@ -3,12 +3,12 @@ title: 'GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verificati
 
 authors:
   - Jie Zhou
-	-	Xu Han
-	-	admin
-	-	Zhiyuan Liu
-	-	Lifeng Wang
-	-	Changcheng Li
-	-	Maosong Sun
+	- Xu Han
+	- admin
+	- Zhiyuan Liu
+	- Lifeng Wang
+	- Changcheng Li
+	- Maosong Sun
 
 date: '2019'
 doi: ''

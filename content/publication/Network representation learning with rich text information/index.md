@@ -3,10 +3,10 @@ title: 'Network representation learning with rich text information'
 
 authors:
   - admin
-	-	Zhiyuan Liu
-	-	Deli Zhao
-	-	Maosong Sun
-	-	Edward Chang
+	- Zhiyuan Liu
+	- Deli Zhao
+	- Maosong Sun
+	- Edward Chang
 
 date: '2015'
 doi: ''

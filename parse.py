@@ -11,7 +11,7 @@ publications.sort(key=lambda x: (x.get('bib', {}).get('pub_year', 0), x.get('num
 for pub in publications[:10]:
     title = pub['bib']['title']
     authors = [author for author in pub['bib']['author'].split(" and ")]
-    authors = "\n\t-\t".join(["admin" if au == "Cheng Yang" else au for au in authors])
+    authors = "\n\t- ".join(["admin" if au == "Cheng Yang" else au for au in authors])
     year = pub['bib'].get('pub_year', '')
     doi = pub.get('doi', '')
     abstract = pub['bib'].get('abstract', '')

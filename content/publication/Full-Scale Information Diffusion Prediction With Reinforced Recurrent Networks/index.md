@@ -3,12 +3,12 @@ title: 'Full-Scale Information Diffusion Prediction With Reinforced Recurrent Ne
 
 authors:
   - admin
-	-	Hao Wang
-	-	Jian Tang
-	-	Chuan Shi
-	-	Maosong Sun
-	-	Ganqu Cui
-	-	Zhiyuan Liu
+	- Hao Wang
+	- Jian Tang
+	- Chuan Shi
+	- Maosong Sun
+	- Ganqu Cui
+	- Zhiyuan Liu
 
 date: '2021'
 doi: ''

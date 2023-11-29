@@ -3,13 +3,13 @@ title: 'Graph neural news recommendation with unsupervised preference disentangl
 
 authors:
   - Linmei Hu
-	-	Siyong Xu
-	-	Chen Li
-	-	admin
-	-	Chuan Shi
-	-	Nan Duan
-	-	Xing Xie
-	-	Ming Zhou
+	- Siyong Xu
+	- Chen Li
+	- admin
+	- Chuan Shi
+	- Nan Duan
+	- Xing Xie
+	- Ming Zhou
 
 date: '2020'
 doi: ''

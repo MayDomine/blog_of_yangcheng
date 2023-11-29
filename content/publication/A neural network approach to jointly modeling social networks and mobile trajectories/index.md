@@ -3,10 +3,10 @@ title: 'A neural network approach to jointly modeling social networks and mobile
 
 authors:
   - admin
-	-	Maosong Sun
-	-	Wayne Xin Zhao
-	-	Zhiyuan Liu
-	-	Edward Y Chang
+	- Maosong Sun
+	- Wayne Xin Zhao
+	- Zhiyuan Liu
+	- Edward Y Chang
 
 date: '2017'
 doi: ''
