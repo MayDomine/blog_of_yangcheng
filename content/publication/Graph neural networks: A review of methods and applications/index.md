@@ -2,7 +2,7 @@
 title: 'Graph neural networks: A review of methods and applications'
 
 authors:
-  - Jie Zhou
+ - Jie Zhou
  - Ganqu Cui
  - Shengding Hu
  - Zhengyan Zhang

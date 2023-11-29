@@ -2,7 +2,7 @@
 title: 'Adaptive graph encoder for attributed graph embedding'
 
 authors:
-  - Ganqu Cui
+ - Ganqu Cui
  - Jie Zhou
  - admin
  - Zhiyuan Liu

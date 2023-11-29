@@ -2,7 +2,7 @@
 title: 'GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification'
 
 authors:
-  - Jie Zhou
+ - Jie Zhou
  - Xu Han
  - admin
  - Zhiyuan Liu

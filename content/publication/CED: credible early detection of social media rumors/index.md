@@ -2,7 +2,7 @@
 title: 'CED: credible early detection of social media rumors'
 
 authors:
-  - Changhe Song
+ - Changhe Song
  - admin
  - Huimin Chen
  - Cunchao Tu

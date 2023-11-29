@@ -2,7 +2,7 @@
 title: 'Graph neural news recommendation with long-term and short-term interest modeling'
 
 authors:
-  - Linmei Hu
+ - Linmei Hu
  - Chen Li
  - Chuan Shi
  - admin

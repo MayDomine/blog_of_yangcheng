@@ -2,7 +2,7 @@
 title: 'Fast network embedding enhancement via high order proximity approximation.'
 
 authors:
-  - admin
+ - admin
  - Maosong Sun
  - Zhiyuan Liu
  - Cunchao Tu

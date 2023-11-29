@@ -2,7 +2,7 @@
 title: 'A neural network approach to jointly modeling social networks and mobile trajectories'
 
 authors:
-  - admin
+ - admin
  - Maosong Sun
  - Wayne Xin Zhao
  - Zhiyuan Liu

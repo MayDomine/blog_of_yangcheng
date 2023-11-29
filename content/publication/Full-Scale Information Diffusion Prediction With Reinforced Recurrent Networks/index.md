@@ -2,7 +2,7 @@
 title: 'Full-Scale Information Diffusion Prediction With Reinforced Recurrent Networks'
 
 authors:
-  - admin
+ - admin
  - Hao Wang
  - Jian Tang
  - Chuan Shi

@@ -2,7 +2,7 @@
 title: 'Graph neural news recommendation with unsupervised preference disentanglement'
 
 authors:
-  - Linmei Hu
+ - Linmei Hu
  - Siyong Xu
  - Chen Li
  - admin

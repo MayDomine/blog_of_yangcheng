@@ -25,7 +25,7 @@ for pub in publications[:10]:
 title: '{title}'
 
 authors:
-  - {authors}
+ - {authors}
 
 date: '{year}'
 doi: '{doi}'
