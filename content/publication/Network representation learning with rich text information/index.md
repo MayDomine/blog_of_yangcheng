@@ -1,4 +1,3 @@
-
 ---
 title: 'Network representation learning with rich text information'
 

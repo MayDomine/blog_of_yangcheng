@@ -1,4 +1,3 @@
-
 ---
 title: 'Adaptive graph encoder for attributed graph embedding'
 

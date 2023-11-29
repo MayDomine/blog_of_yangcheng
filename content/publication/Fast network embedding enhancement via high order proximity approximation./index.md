@@ -1,4 +1,3 @@
-
 ---
 title: 'Fast network embedding enhancement via high order proximity approximation.'
 

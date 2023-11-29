@@ -1,4 +1,3 @@
-
 ---
 title: 'Full-Scale Information Diffusion Prediction With Reinforced Recurrent Networks'
 

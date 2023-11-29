@@ -1,4 +1,3 @@
-
 ---
 title: 'Graph neural networks: A review of methods and applications'
 

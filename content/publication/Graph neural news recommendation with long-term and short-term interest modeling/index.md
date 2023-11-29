@@ -1,4 +1,3 @@
-
 ---
 title: 'Graph neural news recommendation with long-term and short-term interest modeling'
 

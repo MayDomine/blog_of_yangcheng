@@ -1,4 +1,3 @@
-
 ---
 title: 'CED: credible early detection of social media rumors'
 

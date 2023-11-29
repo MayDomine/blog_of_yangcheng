@@ -21,8 +21,7 @@ for pub in publications[:10]:
         venue = pub['bib'].get('journal', '')
     if venue == "":
         venue = pub['bib']['citation'].split(",")[0]
-    markdown_content = f"""
----
+    markdown_content = f"""---
 title: '{title}'
 
 authors:
